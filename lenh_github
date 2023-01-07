@@ -1,0 +1,9 @@
+lenh git
+--
+git clone -- tai github ve may local
+--
+git add.
+git commit -am "message gui len"
+git push -- tai len github nhung data new
+--
+git pull  -- update code moi nhat ve local
